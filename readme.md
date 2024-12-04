@@ -1,1 +1,0 @@
-## This Jupyter notebook provides sample data and code to calculate the Interdisciplinary Research (IDR) index using an organizational approach, as described in the paper titled "Identifying Interdisciplinary Research in Research Projects."
